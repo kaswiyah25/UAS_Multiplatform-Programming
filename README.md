@@ -42,5 +42,5 @@ flutter pub get
 4. Run the application
 flutter run
 
-<img width="720" height="1612" alt="PA3" src="https://github.com/user-attachments/assets/6390daa9-7571-4fbc-b557-6be0f0cabd02" />
+<img width="100" height="150" alt="PA3" src="https://github.com/user-attachments/assets/6390daa9-7571-4fbc-b557-6be0f0cabd02" />
 
