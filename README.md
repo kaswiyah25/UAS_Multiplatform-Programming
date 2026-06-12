@@ -41,6 +41,9 @@ cd note_taking_app
 flutter pub get
 4. Run the application
 flutter run
+
+berikut tampilan nya 
+
 <img width="200" height="450" alt="pa1" src="https://github.com/user-attachments/assets/40300542-8833-436b-ab7e-5c435b3b8fdf" />
 
 
