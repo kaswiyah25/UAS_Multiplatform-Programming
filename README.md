@@ -41,6 +41,8 @@ cd note_taking_app
 flutter pub get
 4. Run the application
 flutter run
+<img width="200" height="450" alt="pa1" src="https://github.com/user-attachments/assets/40300542-8833-436b-ab7e-5c435b3b8fdf" />
 
-<img width="200" height="500" alt="PA3" src="https://github.com/user-attachments/assets/6390daa9-7571-4fbc-b557-6be0f0cabd02" />
+
+<img width="200" height="4500" alt="PA3" src="https://github.com/user-attachments/assets/6390daa9-7571-4fbc-b557-6be0f0cabd02" />
 
