@@ -21,11 +21,11 @@ Technologies Used
 Project Structure
 
 lib/
-├── models/
-├── screens/
-├── widgets/
-├── services/
-└── main.dart
+-> models/
+-> screens/
+-> widgets/
+-> services/
+-> main.dart
 
 Getting Started
 Prerequisites
