@@ -19,6 +19,7 @@ Technologies Used
 - Material Design
 - Local Storage (SharedPreferences / SQLite)
 Project Structure
+
 lib/
 ├── models/
 ├── screens/
